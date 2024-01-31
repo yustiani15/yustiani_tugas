@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-widht, intial-scale=1.0">
+        <title> portofolio </title>
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: aqua;
+            }
+            header{
+                background-color: blueviolet;
+                color: beige;
+                text-align: center;
+                padding: lem 0;
+            }
+            section{
+                max-width: 600px;
+                margin: 20px auto;
+                padding: 20px;
+                background-color: blanchedalmond;
+                border-radius: 8px;
+                box-shadow: 0 0 10px red(0, 0, 0, 0.1);
+            }
+            h1, h2 {
+                color: black;
+            }
+            ul{
+               list-style-type: none;
+               padding: 0%; 
+            }
+            li{
+                margin-bottom: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>portofolio</h1>
+        </header>
+        <section>
+            <h2>Data Pribadi</h2>
+            <ul>
+                <li><strong>Nama:</strong> YUSTIANI</li>
+                <li><strong>Email:</strong> Yusti@gmail.com</li>
+                <li><strong>LinkedIn:</strong> yes</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Pengalaman Kerja</h2>
+            <ul>
+                <li><strong>BENTROK FOUNDATION</strong> - PRESIDEN BENTROK - 2024 </li>
+                
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Pendidikan</h2>
+            <ul>
+                <li><strong>UNIVERSITAS INDONESIA</strong> - ST. M.KOM - 2024</li>
+            </ul>
+        </section>
+    </body>
+</html>
